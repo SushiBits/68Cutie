@@ -25,6 +25,11 @@ _autosave-*
 *.xml
 *.csv
 
+# Release files
+*.zip
+*.pdf
+Gerber/
+
 # macOS junk files
 
 # General
