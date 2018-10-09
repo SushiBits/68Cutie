@@ -15,7 +15,7 @@
     *   CH374 USB 2.0 Full Seed OTG controller
     *   DM9000A 100Mbps Ethernet controller
 
-For more details, see the [documentations](docs/index.md).
+For more details, see the [documentations](docs/README.md).
 
 ## Contact & License
 
